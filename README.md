@@ -5,6 +5,7 @@
 
 
 JavaScript wrapper runs `child_process.execSync("git commit ...")` on GitHub Actions
+modified for testing
 
 
 ## [![Byte size of workspace-commit][badge__master__workspace_commit__source_code]][workspace_commit__master__source_code] [![Open Issues][badge__issues__workspace_commit]][issues__workspace_commit] [![Open Pull Requests][badge__pulls__workspace_commit]][pulls__workspace_commit] [![Latest commits][badge__commits__workspace_commit__master]][commits__workspace_commit__master]
